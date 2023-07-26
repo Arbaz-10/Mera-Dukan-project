@@ -1,0 +1,3 @@
+React rating stars components
+npm i react-helmet
+netlify toml
